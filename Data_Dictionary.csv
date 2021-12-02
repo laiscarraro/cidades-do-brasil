@@ -41,7 +41,7 @@ TAXES;Taxes;2016;$ 1,000 reais;https://www.ibge.gov.br/estatisticas/economicas/c
 GDP;Gross Domestic Product;2016;$ 1,000 reais;https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?t=downloads;
 POP_GDP;Population;2016;-;https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?t=downloads;
 GDP_CAPITA;Gross Domestic Product per capita;2016;-;https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?t=downloads;
-GVA_MAIN;Activity with higher GVA contribution;2016;-;https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?t=downloads;"Para as variáveis com as maiores atividades econômicas foram consideradas:
+GVA_MAIN;Activity with higher GVA contribution;2016;-;https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?t=downloads;Para as variáveis com as maiores atividades econômicas foram consideradas:
 Agricultura, inclusive apoio à agricultura e a pós colheita; 
 Pecuária, inclusive apoio à pecuária;
 Produção florestal, pesca e aquicultura; 
