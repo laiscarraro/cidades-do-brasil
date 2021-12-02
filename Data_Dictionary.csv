@@ -1,4 +1,4 @@
-﻿FIELD;DESCRIPTION;REFERENCE;UNIT;SOURCE;
+FIELD;DESCRIPTION;REFERENCE;UNIT;SOURCE;
 CITY;Name of the City;;;-;
 STATE;Name of the State;;;-;
 CAPITAL;1 if Capital of State;;;-;
